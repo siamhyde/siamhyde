@@ -1,5 +1,3 @@
-# Siam Hyde
-
 I build systems that turn fragmented operational information into structured, usable workflows.
 
 My projects have grown from problems I encountered directly - using AI-assisted development to move from problem discovery and prototypes into working systems with real users and data.
